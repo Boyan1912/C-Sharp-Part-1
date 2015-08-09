@@ -1,0 +1,11 @@
+Development Environments (IDEs):
+
+1. Eclipse - Eclipse is the free and open-source editor upon which many development frameworks are based. It's one of the granddaddies in its field and comes highly recommended by many a professional developer. Eclipse began as a Java development environment and has greatly expanded through a system of lightweight plugins.
+
+2. NetBeans - NetBeans is neck-and-neck with Eclipse as the most-recommended IDE in this category. It's free and open-source, supports tons of languages with more plugins coming all the time, and is incredibly simple to install and use, even for a beginner.
+
+3. Aptana - Aptana is a popular choice for web app development. Aptana Studio 2 can be used as a stand-alone IDE or can be plugged into Eclipse. Aptana comes with Firebug support built-in, and its developer community seems to release plugins for other languages as needed.
+
+4. BlackAdder - This IDE is designed for Python and Ruby devs creating apps for Windows and Linux. It includes a text editor as well as a GUI designer that uses pyQT and QT Designer.
+
+5. Geany - Geany bills itself as a "small and fast" IDE, but it is by no means a lightweight. Its list of supported languages is about a block long; it's highly customizable; and it features a robust set of plugins which is open for hacking.
